@@ -1,0 +1,33 @@
+body, html {
+	width: 100%;
+	height:	100%;
+	font-family: monospace;
+	background: url(header.jpg) no-repeat center center fixed;
+	background-size: cover;
+	padding: 0px;
+	margin: 0px;
+}
+
+h1 {
+	color: #FF5900;
+	font-size: 50px;
+	text-align: center;
+}
+
+hr {
+  border-color: rgba(255, 89, 0, 0.4);
+  border-width: 3px;
+  max-width: 300px;
+  min-width: 200px;
+}
+
+.buffer {
+	padding: 300px 200px;
+	margin: 100px 50px;
+}
+
+.btn {
+	font-weight: 700;
+	color: #FF5900;
+	margin: 20px 20px
+}
